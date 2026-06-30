@@ -13,15 +13,23 @@ A living document of technical learning. Not production code — this is where c
 
 ---
 
-## Content
+## Study Notes (`Estudos/`)
+
+Structured technical notes converted from original course materials:
+
+| File | Content |
+|---|---|
+| [aws.md](Estudos/aws.md) | AWS Cloud Fundamentals — VPC, EC2, S3, RDS, IAM, serverless, pricing models |
+| [aws-ia.md](Estudos/aws-ia.md) | AWS AI & ML Services — SageMaker, Bedrock, Rekognition, Comprehend, MLOps |
+| [machine-learning-deeplearning.md](Estudos/machine-learning-deeplearning.md) | ML & Deep Learning — supervised learning, neural networks, CNNs, Transformers (DeepLearning.AI) |
+| [azure-ai-fundamentals.md](Estudos/azure-ai-fundamentals.md) | Microsoft Azure AI Fundamentals (AI-900) — Cognitive Services, responsible AI, NLP, Vision |
+| [devops.md](Estudos/devops.md) | DevOps — CALMS, CI/CD, Lean, Three Ways, Westrum model, DORA metrics |
+
+## Academic Projects
 
 | Project | Description |
 |---|---|
-| [Estudos](https://github.com/LucasRios/Estudos) | Structured study notes on AWS, DevOps, and AI — formatted in Markdown with original materials in .docx |
-| [FIAP](https://github.com/LucasRios/FIAP) | Academic projects and coursework from FIAP |
-| [lab-natty-or-not](https://github.com/LucasRios/lab-natty-or-not) | DIO Lab — "Natural or Fake Natty?" generative AI challenge |
-| [introducao-a-data-science](https://github.com/LucasRios/introducao-a-data-science) | Alura Data Science introduction course materials |
-| [MasterMind](https://github.com/LucasRios/MasterMind) | Classic MasterMind game implementation — early programming exercise |
+| [FIAP](https://github.com/LucasRios/FIAP) | Generative AI Front-End Engineering — Streamlit, Gradio, NLP, VAE model (FIAP coursework) |
 
 ---
 
